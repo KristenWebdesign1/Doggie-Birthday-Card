@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+    color: blueviolet;
+    background-color: #FFDCF4;
+    border-style: double;
+}
+
+.slogan {
+    text-align: center;
+    color: rebeccapurple;
+    background-color: #FFDCF4;
+    border-style: double;
+}
+
+.img{
+    border-style: double;
+}
